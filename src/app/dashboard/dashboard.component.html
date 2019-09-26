@@ -1,0 +1,19 @@
+<div *ngIf="vacancies.length">
+  <button (click)="changeSeries('year')">Last Year</button>
+  <button (click)="changeSeries('semester')">Last Semester</button>
+  <button (click)="changeSeries('trimester')">Last Trimester</button>
+  <br>
+  <button (click)="changeSeries('reverseYear')">Reverse Year</button>
+  <button (click)="changeSeries('reverse')">Reverse Order</button>
+  <br>
+  <button (click)="changeSeries('random', false)">Random Order</button>
+  <button (click)="changeSeries('random', true)">Random Order Only Once</button>
+</div>
+
+<br>
+
+<div style="display: flex; justify-content: center;">
+  <div style="background-color: lightblue; width: 85%;">
+    <div id="container"></div>
+  </div>
+</div>

@@ -1,0 +1,88 @@
+{
+  "vacancies": [
+    {
+      "month": "Oct/2018",
+      "closed": 0,
+      "canceled": 0,
+      "opened": 0,
+      "balance": 4
+    },
+    {
+      "month": "Nov/2018",
+      "closed": 0,
+      "canceled": 0,
+      "opened": 0,
+      "balance": 4
+    },
+    {
+      "month": "Dec/2018",
+      "closed": 0,
+      "canceled": 0,
+      "opened": 0,
+      "balance": 4
+    },
+    {
+      "month": "Jan/2019",
+      "closed": 0,
+      "canceled": 0,
+      "opened": 0,
+      "balance": 4
+    },
+    {
+      "month": "Feb/2019",
+      "closed": 0,
+      "canceled": 0,
+      "opened": 0,
+      "balance": 4
+    },
+    {
+      "month": "Mar/2019",
+      "closed": 0,
+      "canceled": 0,
+      "opened": 0,
+      "balance": 4
+    },
+    {
+      "month": "Apr/2019",
+      "closed": 0,
+      "canceled": 0,
+      "opened": 0,
+      "balance": 4
+    },
+    {
+      "month": "May/2019",
+      "closed": 11,
+      "canceled": 2,
+      "opened": 31,
+      "balance": 22
+    },
+    {
+      "month": "Jun/2019",
+      "closed": 0,
+      "canceled": 2,
+      "opened": 34,
+      "balance": 54
+    },
+    {
+      "month": "Jul/2019",
+      "closed": 0,
+      "canceled": 74,
+      "opened": 22,
+      "balance": 2
+    },
+    {
+      "month": "Aug/2019",
+      "closed": 7,
+      "canceled": 0,
+      "opened": 23,
+      "balance": 18
+    },
+    {
+      "month": "Sep/2019",
+      "closed": 11,
+      "canceled": 4,
+      "opened": 101,
+      "balance": 104
+    }
+  ]
+}
